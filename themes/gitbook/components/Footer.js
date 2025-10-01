@@ -52,9 +52,9 @@ const Footer = ({ siteInfo }) => {
       <div className='text-xs font-serif'>
         Powered By{' '}
         <a
-          href='https://openbuild.sg.larksuite.com'
+          href='https://openbuild.xyz/'
           className='underline text-gray-500 dark:text-gray-300'>
-          openbuild
+          openbuild (由 NotionNext 搭建)
         </a>
       </div>
       {/* SEO title */}
